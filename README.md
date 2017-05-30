@@ -4,7 +4,7 @@ A simple mini-project to get familiar with switching over to Redux for React's s
 
 ## RUN (macOS)
 
-Assuming you have latest stable version of Xcode...
+Assuming you have latest stable version of Xcode.
 
 Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
