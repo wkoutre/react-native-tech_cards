@@ -18,6 +18,6 @@ Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
 ```npm i ```
 
-### Build and test on IOS
+### Build and test on iOS
 
  ```react-native run-ios```
