@@ -8,16 +8,16 @@ Assuming you have latest stable version of Xcode...
 
 Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
-#### Clone / Navigate to Directory
+### Clone / Navigate to Directory
 
 ```git clone https://github.com/wkoutre/react-native-tech-cards.git [folder-name]```
 
 ```cd [folder-name]```
 
-#### Install dependencies
+### Install dependencies
 
 ```npm i ```
 
-#### Build and test on IOS
+### Build and test on IOS
 
  ```react-native run-ios```
