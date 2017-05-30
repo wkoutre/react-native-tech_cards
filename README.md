@@ -8,11 +8,11 @@ Assuming you have latest stable version of Xcode.
 
 Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
+For a complete overview of all Setup required, please refer to my [react-native-notes](https://github.com/wkoutre/react-native-notes/blob/master/README.md).
+
 ### Clone / Navigate to Directory
 
 ```git clone https://github.com/wkoutre/react-native-tech-cards.git [folder-name]```
-
-For a complete overview of all Setup required, please refer to my [react-native-notes](https://github.com/wkoutre/react-native-notes/blob/master/README.md).
 
 ```cd [folder-name]```
 
