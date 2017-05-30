@@ -8,7 +8,7 @@ Assuming you have latest stable version of Xcode.
 
 Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
-For a complete overview of all Setup required, please refer to my [react-native-notes](https://github.com/wkoutre/react-native-notes/blob/master/README.md).
+For a complete overview of all Setup required, please refer to my [React Native Notes](https://github.com/wkoutre/ReactNativeProjects/blob/master/react-native-notes.md).
 
 ### Clone / Navigate to Directory
 
