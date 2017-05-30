@@ -12,6 +12,8 @@ Must also have react-native-cli installed: ```npm i -g react-native-cli```
 
 ```git clone https://github.com/wkoutre/react-native-tech-cards.git [folder-name]```
 
+For a complete overview of all Setup required, please refer to my [react-native-notes](https://github.com/wkoutre/react-native-notes/blob/master/README.md).
+
 ```cd [folder-name]```
 
 ### Install dependencies
